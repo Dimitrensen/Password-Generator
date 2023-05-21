@@ -1,2 +1,2 @@
-# password_generator.py
+# password_generator
 Simple password generator with encryption
