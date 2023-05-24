@@ -1,2 +1,1 @@
-# password_generator
-Simple password generator with encryption
+Simple password generator with encryption option
